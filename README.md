@@ -1,3 +1,5 @@
+Dynamic Blood Directory App
+Overview
 The Dynamic Blood Directory App is a web-based application designed to simplify the process of finding blood donors based on their blood group and location. It provides an easy-to-use interface where users can search for available donors and view their details. The application helps reduce the time required to connect blood donors with people in need, making the blood search process more efficient.
 
 Features
